@@ -53,7 +53,7 @@ button{
     border-radius: 50%;
     font-weight: bolder;
     border: none;
-
+    cursor: pointer;
 }
 button:hover{
     background-color: #ffffff;
